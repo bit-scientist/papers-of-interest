@@ -1,0 +1,36 @@
+1. Learning To Stop While Learning To Predict. Xinshi Chen, Hanjun Dai, Yu Li, Xin Gao, Le Song
+2. XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning. Sung Whan Yoon, Doyeon Kim, Jun Seo, Jaekyun Moon
+3. Online Continual Learning from Imbalanced Data. Aristotelis Chrysakis, Marie-Francine Moens
+4. Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources. Yun Yun Tsai, Pin-Yu Chen, Tsung-Yi Ho,
+5. Meta Variance Transfer: Learning to Augment from the Others. Seong-Jin Park, Seungju Han, Ji-won Baek, Insoo Kim, Juhwan Song, Hae Beom Lee, Jae-Joon Han, Sung Ju Hwang
+6. AutoML-Zero: Evolving Machine Learning Algorithms From Scratch. Esteban Real, Chen Liang, David So, Quoc Le,
+7. Improving generalization by controlling label-noise information in neural network weights. Hrayr Harutyunyan, Kyle Reing, Greg Ver Steeg, Aram Galstyan
+8. Self-PU: Self Boosted and Calibrated Positive-Unlabeled Training. Xuxi Chen, Wuyang Chen, Tianlong Chen, Ye Yuan, Chen Gong, Kewei Chen, Zhangyang Wang
+9. NGBoost: Natural Gradient Boosting for Probabilistic Prediction. Tony Duan, Anand Avati, Daisy Ding, Khanh K. Thai, Sanjay Basu, Andrew Ng, Alejandro Schuler
+10. Graph Homomorphism Convolution. Hoang NT, Takanori Maehara,
+11. Preference Modeling with Context-Dependent Salient Features. Amanda Bower, Laura Balzano
+12. Aggregation of Multiple Knockoffs. Tuan-Binh Nguyen, Jerome-Alexis Chevalier, Thirion Bertrand, Sylvain Arlot
+13. Simple and Deep Graph Convolutional Networks. Ming Chen, Zhewei Wei, Zengfeng Huang, Bolin Ding, Yaliang Li
+14. Training Linear Neural Networks: Non-Local Convergence and Complexity Results. Armin Eftekhari
+15. On the Noisy Gradient Descent that Generalizes as SGD. Jingfeng Wu, Wenqing Hu, Haoyi Xiong, Jun Huan, Vladimir Braverman, Zhanxing Zhu
+16. PENNI: Pruned Kernel Sharing for Efficient CNN Inference. Shiyu Li, Edward Hanson, Hai Li, Yiran Chen
+17. Training Neural Networks for and by Interpolation. Leonard Berrada, Andrew Zisserman, M. Pawan Kumar
+18. Boosting Deep Neural Network Efficiency with Dual-Module Inference. Liu Liu, Lei Deng, Zhaodong Chen, yuke wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie
+19. On Layer Normalization in the Transformer Architecture. Ruibin Xiong, Yunchang Yang, Di He, Kai Zheng, Shuxin Zheng, Chen Xing, Huishuai Zhang, Yanyan Lan, Liwei Wang, Tie-Yan Liu
+20. From ImageNet to Image Classification: Contextualizing Progress on Benchmarks. Dimitris Tsipras, Shibani Santurkar, Logan Engstrom, Andrew Ilyas, Aleksander Madry
+21. DropNet: Reducing Neural Network Complexity via Iterative Pruning. Chong Min John Tan, Mehul Motani
+22. Training Binary Neural Networks using the Bayesian Learning Rule. Xiangming Meng, Roman Bachmann, Emti Khan
+23. Let's Agree to Agree: Neural Networks Share Classification Order on Real Datasets. Guy Hacohen, Leshem Choshen, Daphna Weinshall
+24. Extrapolation for Large-batch Training in Deep Learning. Tao LIN, Lingjing Kong, Sebastian Stich, Martin Jaggi
+25. Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup. Jang-Hyun Kim, Wonho Choo, Hyun Oh Song
+26. Haar Graph Pooling. Yu Guang Wang, Ming Li, Zheng Ma, Guido Montufar, Xiaosheng Zhuang, Yanan Fan
+27. Do We Need Zero Training Loss After Achieving Zero Training Error? Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, Masashi Sugiyama
+28. Active World Model Learning in Agent-rich Environments with Progress Curiosity. Kuno Kim, Megumi Sano, Julian De Freitas, Nick Haber, Daniel Yamins
+29. Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders. Ioana Bica, Ahmed Alaa, Mihaela van der Schaar
+30. A general recurrent state space framework for modeling neural dynamics during decision-making. David Zoltowski, Jonathan Pillow, Scott Linderman
+31. Influenza Forecasting Framework based on Gaussian Processes. Christoph Zimmer, Reza Yaesoubi
+32. Causal Effect Estimation and Optimal Dose Suggestions in Mobile Health. Liangyu Zhu, Wenbin Lu, Rui Song,
+33. Emergence of Separable Manifolds in Deep Language Representations. Jonathan Mamou, Hang Le, Miguel A del Rio Fernandez, Cory Stephenson, Hanlin Tang, Yoon Kim, SueYeon Chung
+34. BoXHED: Boosted eXact Hazard Estimator with Dynamic covariates. Xiaochen Wang, Arash Pakbin, Bobak Mortazavi, Hongyu Zhao, Donald Lee
+35. Mapping natural-language problems to formal-language solutions using structured neural representations. Kezhen Chen, Qiuyuan Huang, Hamid Palangi, Paul Smolensky, Ken Forbus, Jianfeng Gao
+
